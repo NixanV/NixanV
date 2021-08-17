@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NixanV (Nixan)
-- 👀 I’m interested in programmin obviously
+- 👀 I’m interested in programming obviously
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me on my email 
